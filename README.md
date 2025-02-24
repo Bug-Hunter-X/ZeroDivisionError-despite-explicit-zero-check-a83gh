@@ -1,0 +1,1 @@
+This repository demonstrates a subtle Python bug where a ZeroDivisionError can occur even though there's an apparent check for zero in the code. The bug highlights the importance of robust input validation and handling unexpected inputs.
